@@ -1,0 +1,19 @@
+body {
+  font-family: Arial;
+  background: #FFC0CB;
+ color: black;
+ 
+}
+.welcome{
+  color: #5619;
+  font-size: 27px;
+  
+}
+.info {
+  border: 2px solid white;
+  padding: 20px;
+}
+b{color:blue;}
+img {
+  width: 100px;
+}
